@@ -26,7 +26,6 @@ Welcome to my Github profile! I’m a Software Developer driven by the challenge
 <!-- - 📂 Check out my portfolio: [cameronmcconnell.net](https://cameronmcconnell.net)-->
 
 
-
 ## 🛠 Skills
 
 ### Programming Languages
@@ -34,7 +33,7 @@ Welcome to my Github profile! I’m a Software Developer driven by the challenge
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 ### Web Development
@@ -45,7 +44,6 @@ Welcome to my Github profile! I’m a Software Developer driven by the challenge
 
 
 ### Tools and Technologies
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
