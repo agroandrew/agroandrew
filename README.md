@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-Software Developer | Open Source Contributor | Tech Enthusiast
+Software Developer | Tech Enthusiast
 
 Welcome to my Github profile! I’m a Software Developer driven by the challenge of building elegant solutions to complex problems. I have a diverse skill set spanning various programming languages, web frameworks, and modern DevOps tools.
 <p></p>
